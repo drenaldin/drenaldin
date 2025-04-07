@@ -1,11 +1,26 @@
 # 💫 Acerca de mi:
-👋 ¡Hola! Soy Diego Renaldin<br>🎓 Estudiante de 3er año de Ingeniería en Informática en la UCU.<br>
-🏫 Fundador del Instituto Athenea, un centro educativo con foco en informática y tecnología.<br>
-🚀 Actualmente desarrollando Marketazo, una aplicación propia en desarrollo que planeo lanzar en 2026.<br>
-💻 Apasionado por los lenguajes de programación, el desarrollo de software y la educación tecnológica.<br><br>
-🧠 Habilidades y Tecnologías<br>Lenguajes: Java, Python, JavaScript, HTML/CSS<br>Frameworks: Vue.js, Flask<br>Herramientas: Git, GitHub, VSCode, PSeInt<br>Enfoque en el diseño de interfaces y experiencias educativas<br>
-📂 Repositorios Destacados<br>[athenea_landing-main]: Landing page de mi instituto.<br>Marketazo_*: Módulos en desarrollo de la aplicación Marketazo (privados por ahora).<br>RepoAlgoritmos, PortafolioAlgoritmos: Proyectos académicos en Java y estructuras de datos.<br>DWyM-
-*: Repos de trabajos prácticos de desarrollo web.<br>📫 Contacto<br>🌐 institutoathenea.com<br>📧 diego.renaldin@hotmail.com<br>✉️ drenaldin@gmail.com
+🎓 Estudiante de 3er año de Ingeniería en Informática en la UCU.  
+🏫 Fundador del [Instituto Athenea](https://www.institutoathenea.com/), un centro educativo con foco en informática y tecnología.  
+🚀 Actualmente desarrollando **Marketazo**, una aplicación propia que planeo lanzar en 2026.  
+💻 Apasionado por los lenguajes de programación, el desarrollo de software y la educación tecnológica.
+
+---
+
+### 🧠 Habilidades y Tecnologías
+
+- **Lenguajes:** Java, Python, JavaScript, HTML/CSS  
+- **Frameworks:** Vue.js, Flask  
+- **Herramientas:** Git, GitHub, VSCode, PSeInt  
+- **Intereses:** Interfaces limpias, automatización y educación digital
+
+---
+
+### 📂 Repositorios Destacados
+
+- [`athenea_landing-main`]: Landing page del Instituto Athenea  
+- `Marketazo_*`: Módulos en desarrollo de la aplicación **Marketazo** (actualmente privados)  
+- `RepoAlgoritmos`, `PortafolioAlgoritmos`: Proyectos académicos enfocados en estructuras de datos y lógica en Java  
+- `DWyM-*`: Trabajos prácticos de desarrollo web (HTML y CSS)
 
 
 ## 🌐 Socials:
