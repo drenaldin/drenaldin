@@ -17,7 +17,7 @@
 
 ### 📂 Repositorios Destacados
 
-- [`athenea_landing-main`]: Landing page del Instituto Athenea  
+- [`athenea_landing-main`]: Landing page del Instituto Athenea (privado, pero la web demuestra sus funciones)
 - `Marketazo_*`: Módulos en desarrollo de la aplicación **Marketazo** (actualmente privados)  
 - `RepoAlgoritmos`, `PortafolioAlgoritmos`: Proyectos académicos enfocados en estructuras de datos y lógica en Java  
 - `DWyM-*`: Trabajos prácticos de desarrollo web (HTML y CSS)
