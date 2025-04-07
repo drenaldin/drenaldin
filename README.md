@@ -18,7 +18,7 @@
 
 ### 📂 Repositorios Destacados
 
-- [`athenea_landing-main`](https://github.com/drenaldin/athenea_landing-main): Landing page de mi instituto.
+- [`athenea_landing-main`]: Landing page de mi instituto.
 - `Marketazo_*`: Módulos en desarrollo de la aplicación **Marketazo** (privados por ahora).
 - `RepoAlgoritmos`, `PortafolioAlgoritmos`: Proyectos académicos en Java y estructuras de datos.
 - `DWyM-*`: Repos de trabajos prácticos de desarrollo web.
