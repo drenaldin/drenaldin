@@ -27,6 +27,6 @@
 
 ### 📫 Contacto
 
-- 🌐 [institutoathenea.com](https://www.institutoathenea.com/)
-- ✉️ drenaldin [at] gmail [dot] com
-
+- 🌐 [institutoathenea.com](https://www.institutoathenea.com/)  
+- 📧 diego.renaldin@hotmail.com  
+- ✉️ drenaldin@gmail.com  
