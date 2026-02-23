@@ -1,7 +1,7 @@
 # 💫 Acerca de mi:
 🎓 Estudiante de 4to año de Ingeniería en Informática en la UCU.  
-🏫 Fundador del [Instituto Athenea](https://www.institutoathenea.com/), un centro educativo con foco en informática y tecnología.  
-🚀 Actualmente desarrollando **Marketazo**, una aplicación propia que planeo lanzar en 2026.  
+🏫 CoFundador del [Instituto Athenea](https://www.institutoathenea.com/), un centro educativo con foco en informática, Estetica y Empresas.  
+🚀 Actualmente desarrollando **Marketazo**, una aplicación propia que planeo lanzar en 2027.  
 💻 Apasionado por los lenguajes de programación, el desarrollo de software y la educación tecnológica.
 
 ---
